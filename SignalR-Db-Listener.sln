@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR-Db-Listener", "SignalR-Db-Listener.csproj", "{5B6DF321-5B36-4C31-83C4-F39FDD186BB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B6DF321-5B36-4C31-83C4-F39FDD186BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B6DF321-5B36-4C31-83C4-F39FDD186BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B6DF321-5B36-4C31-83C4-F39FDD186BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B6DF321-5B36-4C31-83C4-F39FDD186BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0230E5FC-43A3-4E1B-A060-2B00B2942534}
+	EndGlobalSection
+EndGlobal
